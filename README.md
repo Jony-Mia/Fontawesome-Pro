@@ -12,7 +12,6 @@
     <li>fonts/</li>
     <li>webfonts/</li>
 </ul>
-<textarea contenteditable="false" rows="40" disabled cols="150">
 <code>
     <link rel="stylesheet" href="fonts/fontawesome.css">
     <link rel="stylesheet" href="fonts/brands.css">
@@ -46,4 +45,3 @@
     <link rel="stylesheet" href="fonts/utility-semibold.css">
     <link rel="stylesheet" href="fonts/whiteboard-semibold.css">
 </code>
-</textarea>
